@@ -1,0 +1,33 @@
+* {
+    margin: 0 auto;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #c0c0c0;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    max-width: 450px;
+}
+
+ul li {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 450px;
+    height: 250px;
+    border-radius: 4px;
+    margin: 8px 0;
+}
+
